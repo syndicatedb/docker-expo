@@ -1,3 +1,3 @@
-FROM node:10.16
+FROM node:12
 
 RUN npm install -g expo-cli
